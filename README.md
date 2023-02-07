@@ -6,3 +6,6 @@ https://onexlab-io.medium.com/docker-compose-mysql-multiple-database-fe640938e06
 https://gist.github.com/MKagesawa/a03892b8c44c015cd991c2c5311f1768
 
 Use volumes: - ./init:/docker-entrypoint-initdb.d
+
+Alternative 
+https://dev.to/yactouat/initseed-a-mysql-database-from-a-docker-compose-file-3bfh
